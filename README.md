@@ -12,9 +12,9 @@
 ## 目录结构
 
 - data：数据集
-- doc：文档 PDF+PPT
-- src：源代码
-- README：此文档
+- document：文档 PDF+PPT
+- sourse：源代码
+- README.md：此文档
 
 ## 运行方法
 
