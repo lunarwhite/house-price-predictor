@@ -1,9 +1,9 @@
-# House Prices - Advanced Regression Techniques
+# house-prices-advanced-regression-techniques
 
 ## 背景介绍
 
 - Predict sales prices and practice feature engineering, RFs, and gradient boosting
-- SDU machine_learning S2 2020 - Project Assignment a
+- SDU machine-learning S2 2020 - project assignment a
 
 ## 项目地址
 
