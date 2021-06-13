@@ -3,7 +3,6 @@
 ## 背景介绍
 
 - Predict sales prices and practice feature engineering, RFs, and gradient boosting
-- SDU machine-learning S2 2020 - project assignment a
 
 ## 项目地址
 
